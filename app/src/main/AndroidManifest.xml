@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ManufacterData"></activity>
+        <activity android:name=".ManufacterData" />
+        <activity android:name=".Statistics" />
+        <activity android:name=".LocationData"></activity>
     </application>
 
 </manifest>

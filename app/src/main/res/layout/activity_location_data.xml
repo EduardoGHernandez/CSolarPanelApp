@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android.csolarpanelapp.csolarpanelapp.LocationData">
+    <LinearLayout
+        android:id="@+id/TextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:text="GUANAJUATO"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select your location..."
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+
+
+            <TextView
+                android:id="@+id/TextViewCity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/background_light"
+                android:text="City:"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <Spinner
+                android:id="@+id/SpinnerCity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/TextViewMonth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/background_light"
+                android:text="Month:"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <Spinner
+                android:id="@+id/SpinnerMonth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:textAlignment="center" />
+
+            <Button
+                android:id="@+id/ButtonShow"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@android:drawable/title_bar"
+                android:onClick="Show_Data"
+                android:text="Show"
+                tools:ignore="HardcodedText"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="120dp" />
+        <TextView
+            android:id="@+id/TextViewData"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

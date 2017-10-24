@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "398329477996",
+    "firebase_url": "https://proyectocemer.firebaseio.com",
+    "project_id": "proyectocemer",
+    "storage_bucket": "proyectocemer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398329477996:android:9ab99010c4e0c771",
+        "android_client_info": {
+          "package_name": "com.cemersc.app.energycem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398329477996-g7vh1s2hqg5rfdt4kmicm1dif13gm9ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cemersc.app.energycem",
+            "certificate_hash": "5fdd13c0f0ce9bdb231ea76e9e71e48f79a2dab3"
+          }
+        },
+        {
+          "client_id": "398329477996-ftlvctt7hdalcrnqvbjpe8fnbh150n2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLZnMEXJpNzWP6llEPQcahvt31cguaxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398329477996-ftlvctt7hdalcrnqvbjpe8fnbh150n2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398329477996:android:5ae91bdd297c7ecb",
+        "android_client_info": {
+          "package_name": "com.android.csolarpanelapp.csolarpanelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398329477996-8bfq3ti89k9vjafej6ap7jb5g2t753t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.csolarpanelapp.csolarpanelapp",
+            "certificate_hash": "f49c6dc157fc3e9270b5812639df24c62ae119aa"
+          }
+        },
+        {
+          "client_id": "398329477996-jm5upla9tr7dkr3l3u51ors4vb021cvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.csolarpanelapp.csolarpanelapp",
+            "certificate_hash": "5fdd13c0f0ce9bdb231ea76e9e71e48f79a2dab3"
+          }
+        },
+        {
+          "client_id": "398329477996-ftlvctt7hdalcrnqvbjpe8fnbh150n2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLZnMEXJpNzWP6llEPQcahvt31cguaxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398329477996-ftlvctt7hdalcrnqvbjpe8fnbh150n2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,56 @@
 <resources>
     <string name="app_name">CSolarPanelApp</string>
+    <string-array name="cities">
+        <item>Abasolo</item>
+        <item>Acámbaro</item>
+        <item>Apaseo el Alto</item>
+        <item>Apaseo el Grande</item>
+        <item>Atarjea</item>
+        <item>Celaya</item>
+        <item>Comonfort</item>
+        <item>Coroneo</item>
+        <item>Cuerámaro</item>
+        <item>Doctor Mora</item>
+        <item>Dolores Hidalgo</item>
+        <item>Guanajuato</item>
+        <item>Huanímaro</item>
+        <item>Irapuato</item>
+        <item>Jaral del Progreso</item>
+        <item>Jerécuaro</item>
+        <item>Juventino Rosas</item>
+        <item>Leon</item>
+        <item>Manuel Doblado</item>
+        <item>Moroleón</item>
+        <item>Ocampo</item>
+        <item>Pueblo Nuevo</item>
+        <item>Purísima del Rincón</item>
+        <item>San José Iturbide</item>
+        <item>San Luis de la Paz</item>
+        <item>San Miguel de Allende</item>
+        <item>Santa Catarina</item>
+        <item>Santiago Maravatío</item>
+        <item>Silao</item>
+        <item>Tarandacuao</item>
+        <item>Tierra Blanca</item>
+        <item>Uriangato</item>
+        <item>Valle de Santiago</item>
+        <item>Victoria</item>
+        <item>Villagrán</item>
+        <item>Xichú</item>
+        <item>Yuriria</item>
+    </string-array>
+    <string-array name="month">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
 </resources>
